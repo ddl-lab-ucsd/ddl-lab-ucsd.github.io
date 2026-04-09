@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Data-Driven Learning Lab
 subtitle: Halıcıoğlu Data Science Institute, UC San Diego
-description: An engaging 1-3 sentence description of your lab.
+description:  
 header: images/hdsi-background.jpg
 footer: images/hdsi-background2.jpg
 proofer: false
