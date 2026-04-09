@@ -13,5 +13,4 @@ links:
   twitter: jiaenyu2024
   orcid: 0000-0001-XXXX-XXXX
 ---
-
-Check my Home Page for more details!
+Hi, this is Jiaen. My research interests includes educational data mining, human-centered systems, and how generative AI can reshape and support learning in computing education. Check my <a href="https://www.jiaenyu.com">Home Page</a> for more details!
