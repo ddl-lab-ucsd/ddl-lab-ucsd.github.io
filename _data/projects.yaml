@@ -1,47 +1,63 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: CompassX
+  subtitle: Promoting Metacognition with Web-based Learning Platform
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/background.jpg
+  # link: https://github.com/
+  description: 
+    A web-based data-driven learning platform designed to 
+    promote students’ metacognitive skills in computing courses. 
+    It integrates planning, self-monitoring, 
+    and reflection into programming assignments to support self-regulated learning.
+
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    # - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+
+- title: ClearMind
+  subtitle: Evidence-based Psychological Intervention to Address Procrastination
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/background.jpg
+  # link: https://github.com/
+  description: 
+    ClearMind is a mobile application grounded in behavioral and psychological principles (ACT) 
+    to help students manage and overcome academic procrastination. 
+    It explores how evidence-based content and interactive activities 
+    can help students learn, reflect, and grow at your own pace.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    # - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: Exploring the Impact of Student-Instructor Interactions in Computing Courses
+  # subtitle: a subtitle
+  group: featured
+  image: images/background.jpg
+  # link: https://github.com/
+  description: 
+    This project examines how generative AI, including large language models (LLMs), 
+    is reshaping student–instructor interactions in computing education. 
+    It aims to inform the design of human-centered AI systems that better support teaching and learning.
   repo: greenelab/lab-website-template
-  tags:
-    - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+
+
+
+
+# - title: Cool Web App
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Cool Web Server
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
