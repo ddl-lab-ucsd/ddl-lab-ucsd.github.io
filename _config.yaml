@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  # email: contact@ddl-lab-ucsd.com
-  # orcid: 0000-0001-8713-9213
-  # google-scholar: ETJoidYAAAAJ
-  # github: ddl-lab-ucsd
-  # twitter: ddl-lab-ucsd
-  # youtube: ddl-lab-ucsd
+  email: contact@ddl-lab-ucsd.com
+  orcid: 0000-0001-8713-9213
+  google-scholar: ETJoidYAAAAJ
+  github: ddl-lab-ucsd
+  twitter: ddl-lab-ucsd
+  youtube: ddl-lab-ucsd
 
 ### jekyll settings
 
