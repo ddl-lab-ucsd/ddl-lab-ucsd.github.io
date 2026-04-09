@@ -1,10 +1,11 @@
 ---
-name: John Doe
+name: Nathan Park
 image: images/photo.jpg
-role: phd
-group: alum
+description: Undergrad Student
+role: undergraduate
 links:
-  github: john-doe
+  email: xxx@gmail.com
+  twitter: sarahjohnson
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
