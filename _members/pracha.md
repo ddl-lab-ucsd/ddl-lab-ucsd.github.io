@@ -12,4 +12,4 @@ links:
   
 ---
 
-Hi, I’m Pracha Promthaw, check my <a href="https://kimmypracha.github.io">home page</a> for more details!
+Hi, I’m Pracha Promthaw, check my <a href="https://kimmypracha.github.io">Home Page</a> for more details!
