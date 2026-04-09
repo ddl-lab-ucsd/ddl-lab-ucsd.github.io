@@ -14,7 +14,7 @@ If you would like to learn more about our research, please feel free to reach ou
   include button.html
   type="email"
   text="EMAIL US"
-  link="jiy037@ucsd.com"
+  link="ddllabucsd@gmail.com"
 %}
 <!-- {%
   include button.html
