@@ -29,11 +29,13 @@ Our mission is to design and evaluate data-driven and AI-powered systems that su
 ## Lab Alumni
 
 <ul>
-  <li>Jinya (Yaya) Jiang </li>
-  <li>John Driscoll -> UC San Diego, MSDS</li>
+  <li>Yiqing (Brenda) Li -> Amazon, Software Engineer</li>
+  <li>Jinya (Yaya) Jiang -> Amazon, Software Engineer</li>
+  <li>John Driscoll -> Carnegie Mellon University, PhD</li>
   <li>Yandong Xiang -> Columbia University, MSDS</li>
   <li>Yunyi (Winnie) She -> Northwestern University, MSCS</li>
 </ul>
+
 
 
 
