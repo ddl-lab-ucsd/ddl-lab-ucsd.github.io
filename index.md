@@ -16,6 +16,7 @@ Our recent work explores how AI techniques, including large language models (LLM
 ## News
 
 <ul>
+  <li><strong>Spet. 2026</strong> – Our paper on a <em>lightweight, data-driven planning intervention</em> was accepted to <a href="https://2027.sigcse-ts.acm.org/details/sigcse-ts-2027-Papers-1/12/Better-Plans-Better-Outcomes-Integrating-Historical-Data-into-Student-Planning-in-a">SIGCSE TS 2027</a>!</li>
   <li><strong>Apr. 2025</strong> – Two papers were accepted to the ASEE Conference 2025.</li>
   <li><strong>Mar. 2025</strong> – We organized a panel at the <a href="https://www.ccsc.org/southwestern/2025/tutorials.php#:~:text=Overcoming%20Procrastination%3A%20The%20Impact%20and%20Opportunities%20of%20ClearMind">CCSC Southwestern 2025</a> to share our work on ClearMind.</li>
   <li><strong>Feb. 2025</strong> – We presented our poster on CompassX at <a href="https://sigcse2025.sigcse.org/details/sigcse-ts-2025-posters/158/Student-Usage-of-Metacognition-Promoting-Tool-in-a-CS2-Course-and-its-Relationship-wi">SIGCSE TS 2025</a>.</li>
