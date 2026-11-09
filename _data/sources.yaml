@@ -1,3 +1,13 @@
+- id: arxiv:2611.05143
+  type: paper
+  publisher: ACM SIGCSE TS 2027 (accepted; to appear)
+  date: '2027-02-17'
+  image: /images/SIGCSE2027.jpg
+  link: https://arxiv.org/abs/2611.05143
+  buttons:
+    - type: paper
+      text: PDF (arXiv preprint)
+      link: https://arxiv.org/pdf/2611.05143
 
 - id: doi:10.1145/3770762.3772619
   type: paper
