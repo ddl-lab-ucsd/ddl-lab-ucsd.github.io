@@ -1,4 +1,9 @@
-- id: arxiv:2611.05143
+# Use manual metadata to avoid relying on the arXiv OAI API.
+- title: 'Better Plans, Better Outcomes: Integrating Historical Data into Student Planning in a Computing Course'
+  authors:
+    - Jiaen Yu
+    - Jinya Jiang
+    - Soohyun Nam Liao
   type: paper
   publisher: ACM SIGCSE TS 2027 (accepted; to appear)
   date: '2027-02-17'
