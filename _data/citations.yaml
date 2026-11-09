@@ -78,6 +78,23 @@
   file: sources.yaml
   type: paper
   image: /images/SIGCSE2025.png
+- title: 'Better Plans, Better Outcomes: Integrating Historical Data into Student
+    Planning in a Computing Course'
+  authors:
+  - Jiaen Yu
+  - Jinya Jiang
+  - Soohyun Nam Liao
+  type: paper
+  publisher: ACM SIGCSE TS 2027 (accepted; to appear)
+  date: '2027-02-17'
+  image: /images/SIGCSE2027.jpg
+  link: https://arxiv.org/abs/2611.05143
+  buttons:
+  - type: paper
+    text: PDF (arXiv preprint)
+    link: https://arxiv.org/pdf/2611.05143
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:/10.1145/3626252.3630805
   title: 'ClearMind Workshop: An ACT-based Intervention Tailored for Academic Procrastination
     among Computing Students'
