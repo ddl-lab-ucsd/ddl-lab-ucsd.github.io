@@ -29,6 +29,7 @@ $wrap: 800px;
   inset: 0;
   width: 100%;
   height: 100%;
+  padding: 12px;
   object-fit: contain;
 }
 
@@ -79,10 +80,13 @@ $wrap: 800px;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+  width: 100%;
 }
 
 .citation-buttons .button {
   margin: 0;
+  max-width: 100%;
+  white-space: nowrap;
 }
 
 .citation-text > .tags {
